@@ -1,4 +1,6 @@
-## Olá! Eu sou Lívia! 👋
+## Oioi, sou Beatriz! 👋
+
+## Desenvolvedora full stack, estudante de design gráfico. Apaixonada por livros, mangás, games, animes e gatos.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviabbxavier&theme=neon)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabbxavier&size_weight=0.5&count_weight=0.5&theme=neon)
 
